@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text=" 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/MUSIC_PLAYER_SUPPORT_CHANNEL")
                ],
                [
                     InlineKeyboardButton(
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Channel",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/MUSIC_PLAYER_SUPPORT_CHANNEL")
                ],
                [
                     InlineKeyboardButton(
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/MUSIC_PLAYER_SUPPORT_CHANNEL")
                ],
                [
                     InlineKeyboardButton(
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            url=f"https://t.me/MUSIC_PLAYER_SUPPORT_CHANNEL")
                ],
                [
                     InlineKeyboardButton(
