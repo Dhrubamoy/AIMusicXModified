@@ -172,12 +172,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="Wr are tough 🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/MISS_KRISHNA_CHAT")
                ],
                [
                         InlineKeyboardButton(
                             text=" 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/ANIME_CHAT_HOUSE_CLUB")
                    
                 ]
             ]
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/MISS_KRISHNA_CHAT")
                ],
                [
                         InlineKeyboardButton(
@@ -255,7 +255,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/MISS_KRISHNA_CHAT")
                ],
                [
                         InlineKeyboardButton(
@@ -323,7 +323,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
-                            url=f"https://t.me/LB_OffTopic")
+                            url=f"https://t.me/MISS_KRISHNA_CHAT")
                ],
                [
                         InlineKeyboardButton(
