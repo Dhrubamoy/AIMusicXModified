@@ -230,7 +230,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/ANIME_CHAT_HOUSE_CLUB")
                    
                 ]
             ]
@@ -260,7 +260,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/ANIME_CHAT_HOUSE_CLUB")
                    
                 ]
             ]
@@ -328,7 +328,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            url=f"https://t.me/ANIME_CHAT_HOUSE_CLUB")
                    
                 ]
             ]
