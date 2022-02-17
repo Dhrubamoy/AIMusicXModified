@@ -167,8 +167,8 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="Krishna",
+                            url=f"https://t.me/Kannadiga_HERO"),
                             
                     InlineKeyboardButton(
                             text="Wr are tough 🥀",
@@ -220,8 +220,8 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="Krishna",
+                            url=f"https://t.me/Kannadiga_HERO"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
@@ -250,8 +250,8 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba🚬",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="Krishna🚬",
+                            url=f"https://t.me/Kannadiga_HERO"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
@@ -318,8 +318,8 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="Dhruba",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="Krishna",
+                            url=f"https://t.me/Kannadiga_HERO"),
                             
                     InlineKeyboardButton(
                             text="We are tough🥀",
